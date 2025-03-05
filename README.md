@@ -1,2 +1,11 @@
 # FerrisWheel-km-368
-Free Code Camp's ferris wheel
+Deploying Free Code Camp's ferris wheel using Netlify.
+
+**Tools Used**
+
+* Free Code Camp
+* codepen.io
+* GitHub
+* repositories
+* codespaces
+* Netlify
